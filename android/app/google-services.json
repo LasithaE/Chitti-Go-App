@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "630240445646",
+    "firebase_url": "https://chittifund-c306d-default-rtdb.firebaseio.com",
+    "project_id": "chittifund-c306d",
+    "storage_bucket": "chittifund-c306d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630240445646:android:1cdb69fae63c9f0dc43c9f",
+        "android_client_info": {
+          "package_name": "com.example.chitti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630240445646-nmrec5cl1mkrdatekhbjvo97m3kgoiab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chitti",
+            "certificate_hash": "a3c88a60c8b91c5018f9f7d9f04f5e856729b076"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmaqnWA7RpYor1SgFtGUsNXphjZ64yl7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
