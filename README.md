@@ -80,3 +80,6 @@ during this journey, we learned that while working together as a team we can sur
 
 We have more ideas yet to implement such as providing further banking services to the gig
 workers and pulling them more into the mainstream financial services.
+
+##Screenshots
+
