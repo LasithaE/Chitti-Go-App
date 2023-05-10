@@ -81,9 +81,14 @@ during this journey, we learned that while working together as a team we can sur
 We have more ideas yet to implement such as providing further banking services to the gig
 workers and pulling them more into the mainstream financial services.
 
-##Screenshots
+## Screenshots
+
 ![Logo](../master/images/1613053577608.jpg)
+
 ![Home Screen](../master/images/1613053577767.jpg)
+
 ![Chitti List](../master/images/1613053577742.jpg)
-![Chat Screen)(../master/images/1613053577575.jpg)
+
+![Chat Screen](../master/images/1613053577575.jpg)
+
 ![Monthly Receipts](../master/images/1613053577717.jpg)
